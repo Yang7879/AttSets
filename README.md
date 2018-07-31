@@ -1,4 +1,4 @@
-# Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction
+# Attentional Aggregation of Deep Feature Sets for \\ Multi-view 3D Reconstruction
 Bo Yang, Sen Wang, Andrew Markham, Niki Trigoni
 
 ## (1) Architecture
