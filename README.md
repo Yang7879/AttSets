@@ -2,8 +2,9 @@
 Bo Yang, Sen Wang, Andrew Markham, Niki Trigoni
 
 ## (1) Architecture
+![Arch Image](https://github.com/Yang7879/AttSets/blob/master/attsets_arch.png)
 ## (2) Sample Results
-
+![Teaser Image](https://github.com/Yang7879/AttSets/blob/master/attsets_sample.png)
 ## (3) Data
 
 ## (4) Released Model
