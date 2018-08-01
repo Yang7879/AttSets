@@ -12,8 +12,8 @@ Bo Yang, Sen Wang, Andrew Markham, Niki Trigoni
 #### LSM Dataset
 [https://github.com/akar43/lsm](https://github.com/akar43/lsm)
 
-## (4) Released Model
-
+## (4) Released Model (70M) 
+[https://drive.google.com/open?id=1A1ihqMDfZLrjQeCFWEjgp-WYb810_om-](https://drive.google.com/open?id=1A1ihqMDfZLrjQeCFWEjgp-WYb810_om-)
 ## (5) Requirements
 
 ## (6) Run
