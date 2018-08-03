@@ -1,5 +1,5 @@
 # Attentional Aggregation of Deep Feature Sets <br /> for Multi-view 3D Reconstruction
-Bo Yang, Sen Wang, Andrew Markham, Niki Trigoni
+Bo Yang, Sen Wang, Andrew Markham, Niki Trigoni. arXiv preprint arXiv:1808.00758, 2018.
 
 ## (1) Architecture
 ![Arch Image](https://github.com/Yang7879/AttSets/blob/master/attsets_arch.png)
@@ -36,3 +36,15 @@ python main_AttSets.py
 python demo_AttSets.py
 
 ## (7) Citation
+If you use the paper or code for your research, please cite:
+```
+@inProceedings{Yang18b,
+  title={Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction},
+  author = {Bo Yang
+  and Sen Wang
+  and Andrew Markham
+  and Niki Trigoni,
+  booktitle={arXiv preprint arXiv:1808.00758},
+  year={2018}
+}
+```
