@@ -3,19 +3,21 @@ Bo Yang, Sen Wang, Andrew Markham, Niki Trigoni. arXiv preprint arXiv:1808.00758
 
 ## (1) Architecture
 ![Arch Image](https://github.com/Yang7879/AttSets/blob/master/attsets_arch.png)
-## (2) Sample Results
+## (2) Optimization
+![Teaser Image](https://github.com/Yang7879/AttSets/blob/master/attsets_optim.png)
+## (3) Sample Results
 ![Teaser Image](https://github.com/Yang7879/AttSets/blob/master/attsets_sample.png)
 
-## (3) Data
+## (4) Data
 #### 3D-R2N2 Dataset
 [https://github.com/chrischoy/3D-R2N2](https://github.com/chrischoy/3D-R2N2)
 #### LSM Dataset
 [https://github.com/akar43/lsm](https://github.com/akar43/lsm)
 
-## (4) Released Model
+## (5) Released Model
 #### Trained on 3D-R2N2 dataset, 70M
 [https://drive.google.com/open?id=1A1ihqMDfZLrjQeCFWEjgp-WYb810_om-](https://drive.google.com/open?id=1A1ihqMDfZLrjQeCFWEjgp-WYb810_om-)
-## (5) Requirements
+## (6) Requirements
 python 2.7 or 3.5
 
 tensorflow 1.2 +
@@ -28,14 +30,14 @@ matplotlib 2.0.2
 
 skimage 0.13.0
 
-## (6) Run
+## (7) Run
 #### Training
 python main_AttSets.py
 
 #### Test Demo (Download released model first)
 python demo_AttSets.py
 
-## (7) Citation
+## (8) Citation
 If you use the paper or code for your research, please cite:
 ```
 @inProceedings{Yang18b,
