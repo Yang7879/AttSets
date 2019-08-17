@@ -41,7 +41,7 @@ python demo_AttSets.py
 If you use the paper or code for your research, please cite:
 ```
 @inProceedings{Yang18b,
-  title={Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction},
+  title={Robust Attentional Aggregation of Deep Feature Sets for Multi-view 3D Reconstruction},
   author = {Bo Yang
   and Sen Wang
   and Andrew Markham
