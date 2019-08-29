@@ -1,5 +1,5 @@
 # Robust Attentional Aggregation of Deep Feature Sets <br /> for Multi-view 3D Reconstruction
-Bo Yang, Sen Wang, Andrew Markham, Niki Trigoni. IJCV, 2019.
+Bo Yang, Sen Wang, Andrew Markham, Niki Trigoni. [IJCV](https://link.springer.com/article/10.1007/s11263-019-01217-w), 2019.
 
 ## (1) Architecture
 ![Arch Image](https://github.com/Yang7879/AttSets/blob/master/figs/attsets_arch.png)
